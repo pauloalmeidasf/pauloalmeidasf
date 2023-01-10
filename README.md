@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Paulo
 - 👀 I’m interested in System Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Bootstrap, Angular, React, C#, Java, Flutter, React Native, SQL Server and MongoDB
+- 🌱 I’m currently interested in HTML, CSS, JavaScript, Bootstrap, Angular, React, C#, Java, Flutter, React Native, SQL Server and MongoDB
