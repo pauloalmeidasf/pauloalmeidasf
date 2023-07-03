@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Paulo
 - 👀 I’m interested in System Development
-- 🌱 I’m currently interested in HTML, CSS, JavaScript, Angular, C#, Java, SQL Server, MongoDB and Artificial Intelligence.
+- 🌱 I’m currently interested in JavaScript, C#, Java, Python, SQL Server, MongoDB and Artificial Intelligence.
